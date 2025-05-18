@@ -1,0 +1,10 @@
+site_name: My Docs
+site_name: PyAutoHub
+theme:
+name: material
+markdown_extensions:
+toc:
+permalink: true
+nav:
+首页: index.md
+脚本列表: scripts.md # 后面你可以在 docs/ 目录下新建 scripts.md，收录脚本目录
